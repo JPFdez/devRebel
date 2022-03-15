@@ -4,6 +4,9 @@ You can use the [editor on GitHub](https://github.com/JPFdez/devRebel/edit/gh-pa
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+## Web site publish Pages
+Your site is ready to be published at https://jpfdez.github.io/devRebel/
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
