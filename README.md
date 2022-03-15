@@ -1,2 +1,3 @@
 # devRebel
-Development web site
+Development web site by Jose P Fdez
+https://devRebel.github.io
